@@ -1,0 +1,19 @@
+{
+    "mood": [
+      {
+        "id": 1,
+        "mood": "Happy",
+        "gif": "https://i.giphy.com/media/MeIucAjPKoA120R7sN/giphy.webp",
+      },
+      {
+        "id": 2,
+        "mood": "Stressed",
+        "gif": "https://i.giphy.com/media/tZiLOffTNGoak/giphy.webp",
+      }
+      "mood": [
+        {
+          "id": 3,
+          "mood": "Mad",
+          "gif": "https://media.giphy.com/media/3o7bu8mwh3U6SXtLjy/giphy.gif"
+    ]
+  }
